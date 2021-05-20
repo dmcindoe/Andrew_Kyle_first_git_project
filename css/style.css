@@ -11,3 +11,27 @@ div.developer {
     padding: 6px;
     text-align: center;
   }
+
+  div.myfood {
+    width: 200px;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 6px;
+    text-align: center;
+  }
+
+  div.partnerfood {
+    width: 200px;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 6px;
+    text-align: center;
+  }
+
+  div.picture {
+    width: 270px;
+    border: 2px solid green;
+    border-radius: 5px;
+    padding: 6px;
+    text-align: center;
+  }
